@@ -46,7 +46,9 @@ During the first phase of the project, people or organizations identify themselv
 * Intended scope (local, regional, national, global)
 * Time horizon
 
-Using this information, a software system will create five clusters of interest, plus one wildcard. People will be placed in a cluster, but can also choose their own cluster. 
+Using this information, a software system will create four or five clusters of interest, plus one wildcard. People will be placed in a cluster, but can also choose their own cluster. 
+
+![Clusters](images/RaCoBu1.png)
 
 
 ### Clusters: creating the best projects in each area
@@ -78,6 +80,8 @@ Each group will present:
     9. Governance for reaching decisions within the team. What would they do differently? 
     10. Budget spending report.
 
+![PrimaryProposalResults](images/RaCoBu2.png)
+
 
 ### Funding and data collection for Phase 2
 
@@ -106,6 +110,8 @@ Assessment of reputation can be attached to individuals or to pods of people who
 
 Phase 2 will include several technological implementations:
 
+![Workflow](images/RaCoBu3.png)
+
 
 
 * Data collection as from Phase 1: Asynchronous chat, e-mails, scheduling, transcripts from discussions, written documentation.
@@ -120,6 +126,7 @@ Phase 2 will include several technological implementations:
 * Resource sharing tracking (potentially with cryptocurrency of some type) to identify flows of resources among groups.
 
 The results of this phase will be a robust system for matching projects and initiatives with the people who can execute.
+
 
 
 ## Phase 3: Complex adaptive network organism
